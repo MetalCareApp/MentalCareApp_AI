@@ -1,0 +1,25 @@
+{
+  "plain_gpt": {
+    "Faithfulness": 0.517037753912754,
+    "Answer Relevancy": 0.7938191175116867,
+    "Context Precision": 0.7680555555230786,
+    "Context Recall": 0.825
+  },
+  "rag_chatbot": {
+    "Faithfulness": 0.5080357142857143,
+    "Answer Relevancy": 0.12079389673654703,
+    "Context Precision": 0.7472222221899536,
+    "Context Recall": 0.8
+  },
+  "improvement": {
+    "faithfulness": -0.009002039627039715,
+    "answer_relevancy": -0.6730252207751396,
+    "context_precision": -0.02083333333312498,
+    "context_recall": -0.02499999999999991
+  },
+  "average": {
+    "plain_gpt": 0.7259781067368798,
+    "rag_chatbot": 0.5440129583030537,
+    "improvement": -0.18196514843382605
+  }
+}
